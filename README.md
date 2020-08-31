@@ -10,5 +10,3 @@ Currently:
 - Keeping my cat from destroying my keyboard
 - Playing Horizon: Zero Dawn and Control
 - Battling with node.js compilation issues and other stuff
-
-[![](https://ga-beacon.appspot.com/UA-123953385-2/github.com/VADS/VADS/README.md?pixel)](https://GitHub.com/VADS/VADS)
