@@ -8,5 +8,5 @@
 Currently:
 - Learning Vue.js
 - Keeping my cat from destroying my keyboard
-- Playing Horizon: Zero Dawn and Control
+- Playing Horizon: Zero Dawn
 - Battling with node.js compilation issues and other stuff
