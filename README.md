@@ -6,6 +6,6 @@
 ---
 
 Currently:
-- Keeping my cat from destroying my keyboard
-- Playing Horizon: Zero Dawn
-- Battling with node.js compilation issues and other stuff
+- Toying around with [Lindenmayer systems](https://github.com/VADS/DaVerMePro-MIB5-Three.js)
+- Playing Death Stranding
+- Testing Snowpack 🏂
