@@ -7,5 +7,5 @@
 
 Currently:
 - Toying around with [Lindenmayer systems](https://github.com/VADS/DaVerMePro-MIB5-Three.js)
-- Playing Death Stranding
+- Playing Cyberpunk 2077
 - Testing Snowpack 🏂
