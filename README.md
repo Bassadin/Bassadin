@@ -6,6 +6,6 @@
 ---
 
 Currently:
-- Toying around with [Lindenmayer systems](https://github.com/VADS/DaVerMePro-MIB5-Three.js)
-- Playing Cyberpunk 2077
+- Toying around with [Lindenmayer systems](https://github.com/VADS/Three.LS)
+- Using GitHub actions
 - Testing Snowpack 🏂
