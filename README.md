@@ -6,6 +6,7 @@
 ---
 
 Currently:
-- Toying around with [Lindenmayer systems](https://github.com/VADS/Three.LS)
+- Programming [Gutenberg Blocks for Wordpress](https://github.com/Bassadin/wp-person-block)
 - Using GitHub actions
 - Testing Snowpack 🏂
+- Excited to try out [Vite.js](https://github.com/vitejs/vite)
