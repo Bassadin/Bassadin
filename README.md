@@ -6,7 +6,6 @@
 ---
 
 Currently:
-- Programming [Gutenberg Blocks for Wordpress](https://github.com/Bassadin/wp-person-block)
 - Using GitHub actions
 - Toying with [OpenHAB](https://github.com/openhab)
-- Excited to try out [Vite.js](https://github.com/vitejs/vite)
+- Programming ESP8266s with C++
