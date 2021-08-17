@@ -10,3 +10,4 @@ Currently:
 - Toying with [OpenHAB](https://github.com/openhab)
 - Programming ESP8266s with C++
 - Getting used to PHP and Laravel
+- Neglecting my GitHub commit streak because I work again :(
