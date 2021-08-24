@@ -6,8 +6,7 @@
 ---
 
 Currently:
-- Using GitHub actions
 - Toying with [OpenHAB](https://github.com/openhab)
-- Programming ESP8266s with C++
 - Getting used to PHP and Laravel
+- Trying to get Vue 3 to work
 - Neglecting my GitHub commit streak because I work again :(
