@@ -5,6 +5,8 @@
 
 ---
 
+Find more information about me on [my website](https://bassadin.de/).
+
 Currently:
 - Toying with [OpenHAB](https://github.com/openhab)
 - Getting used to PHP and Laravel
