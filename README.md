@@ -8,9 +8,8 @@
 Find more information about me on [my website](https://bassadin.de/).
 
 Currently:
-- Toying with [OpenHAB](https://github.com/openhab)
-- Getting used to PHP and Laravel
-- Trying to get Vue 3 to work
+- Trying to deploy Laravel to a Raspberry Pi 4 Compute Module
+- Getting annoyed about Apache configs
 - Neglecting my GitHub commit streak because I work again :(
 
 ---
