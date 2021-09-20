@@ -1,5 +1,7 @@
 # Hi there 👋 Bastian here.
 
+I'm Bastian, a software developer from Germany. While my current focus is Full Stack Web Development, I've dabbled in Game Development, Embedded Programming, Home Automation and other directions of IT before. I love to learn about new technologies and how they can be used to make life better for anyone.
+
 [![Bassadin's github stats](https://github-readme-stats.vercel.app/api?username=Bassadin&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ###### _Github Stats by https://github.com/anuraghazra/github-readme-stats_
 
