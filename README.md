@@ -8,9 +8,8 @@
 Find more information about me on [my website](https://bassadin.de/).
 
 Currently:
-- Trying to deploy Laravel to a Raspberry Pi 4 Compute Module
-- Getting annoyed about Apache configs
-- Neglecting my GitHub commit streak because I work again :(
+- Deploying a Laravel web app to a Raspberry Pi
+- Neglecting my GitHub commit streak because I work again (with GitLab) :(
 
 ---
 
