@@ -13,7 +13,7 @@ Find more information about me on [my website](https://bassadin.de/).
 
 Currently:
 - Deploying a Laravel web app to a Raspberry Pi
-- Trying to figure out Apache configurations and RaspAP deployment
+- Getting my inner DevOps demon going
 - Neglecting my GitHub commit streak because I work again (with GitLab) :(
 - Fixing my OpenHAB homie temperature sensors
 
