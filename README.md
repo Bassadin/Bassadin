@@ -15,7 +15,7 @@ Currently:
 - Deploying a Laravel web app to a Raspberry Pi
 - Getting my inner DevOps demon going
 - Neglecting my GitHub commit streak because I work again (with GitLab) :(
-- Fixing my OpenHAB homie temperature sensors
+- Trying out writing some Dockerfiles 🐳
 
 ---
 
