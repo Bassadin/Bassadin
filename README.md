@@ -12,10 +12,10 @@ At the moment, I'm going to college in Furtwangen in the Black Forest in Germany
 Find more information about me on [my website](https://bassadin.de/).
 
 Currently:
-- Deploying a Laravel web app to a Raspberry Pi
 - Getting my inner DevOps demon going
 - Neglecting my GitHub commit streak because I work again (with GitLab) :(
 - Trying out writing some Dockerfiles 🐳
+- Exploring numpy and matplotlib 📘
 
 ---
 
