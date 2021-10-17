@@ -15,7 +15,7 @@ Currently:
 - Getting my inner DevOps demon going
 - Neglecting my GitHub commit streak because I work again (with GitLab) :(
 - Trying out writing some Dockerfiles 🐳
-- Exploring numpy and matplotlib 📘
+- Exploring numpy and matplotlib 📘 (yay, python syntax...)
 
 ---
 
