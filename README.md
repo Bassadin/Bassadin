@@ -14,7 +14,7 @@ Find more information about me on [my website](https://bassadin.de/).
 Currently:
 - Getting my inner DevOps demon going with GitLab CI/CD
 - Neglecting my GitHub commit streak because I work again (with GitLab) :(
-- Trying out writing some Dockerfiles 🐳
+- Playing around with L-Systems again :)
 - Exploring numpy and matplotlib 📘 (yay, python syntax...)
 
 ---
