@@ -14,7 +14,7 @@ Find more information about me on [my website](https://bassadin.de/).
 Currently:
 - Getting my inner DevOps demon going with GitLab CI/CD
 - Playing around using Three.js with L-Systems and WebXR again :)
-- Exploring numpy and matplotlib 📘 (yay, python syntax...)
+- Exploring numpy and matplotlib 📘 (yay, python syntax :c)
 
 ---
 
