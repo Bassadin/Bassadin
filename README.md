@@ -1,4 +1,4 @@
-# Hi there, 👋 Bastian here!
+# 🌠 Bastian here! 🌠
 
 I'm Bastian, a software developer from Germany. While my current focus is Full Stack Web Development (buzz word bingo, woop woop), I've dabbled in Game Development, Embedded Programming, Home Automation and other directions of IT before. I love to learn about new technologies and how they can be used to make life better for anyone. Clean and structured code is very important to me - we all experienced those times where we tried to understand old code far too often.
 
