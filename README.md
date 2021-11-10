@@ -1,5 +1,14 @@
 # 🌠 Bastian here! 🌠
 
+~~~
+ ______   ______   ______   ______   ______   _____    __   __   __    
+/\  == \ /\  __ \ /\  ___\ /\  ___\ /\  __ \ /\  __-. /\ \ /\ "-.\ \   
+\ \  __< \ \  __ \\ \___  \\ \___  \\ \  __ \\ \ \/\ \\ \ \\ \ \-.  \  
+ \ \_____\\ \_\ \_\\/\_____\\/\_____\\ \_\ \_\\ \____- \ \_\\ \_\\"\_\ 
+  \/_____/ \/_/\/_/ \/_____/ \/_____/ \/_/\/_/ \/____/  \/_/ \/_/ \/_/ 
+~~~
+                                                                       
+
 I'm Bastian, a software developer from Germany. While my current focus is Full Stack Web Development (buzz word bingo, woop woop), I've dabbled in Game Development, Embedded Programming, Home Automation and other directions of IT before. I love to learn about new technologies and how they can be used to make life better for anyone. Clean and structured code is very important to me - we all experienced those times where we tried to understand old code far too often.
 
 At the moment, I'm going to college in Furtwangen in the Black Forest in Germany for a bachelor's degree in Computer Science in Media. Next to that, I'm working as a full stack web developer for [Compaile](https://compaile.com/). I'm writing my Bachelor's Thesis this semester about a web interface on an embedded NILM system using a Raspberry Pi Compute Module.
