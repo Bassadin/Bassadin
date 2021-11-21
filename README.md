@@ -24,6 +24,7 @@ Currently:
 - Getting my inner DevOps demon going with GitLab CI/CD
 - Playing around using Three.js with L-Systems and WebXR again :)
 - Exploring numpy and matplotlib 📘 (yay, python syntax :c)
+- Watching my GitLab CI/CD pipelines in hypnotized awe
 
 ---
 
