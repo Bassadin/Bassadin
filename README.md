@@ -21,9 +21,8 @@ At the moment, I'm going to college in Furtwangen in the Black Forest in Germany
 Find more information about me on [my website](https://bassadin.de/).
 
 Currently:
-- Getting my inner DevOps demon going with GitLab CI/CD
-- Playing around using Three.js with L-Systems and WebXR again :)
-- Training my first AI models with Tensorflow and Keras
+- About to finish my bacherlor's degree the start of next year :D
+- Playing around using Three.js with L-Systems and WebXR again
 - Watching my GitLab CI/CD pipelines in hypnotized awe
 
 ---
