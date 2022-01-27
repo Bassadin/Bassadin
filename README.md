@@ -21,9 +21,8 @@ At the moment, I'm going to college in Furtwangen in the Black Forest in Germany
 Find more information about me on [my website](https://bassadin.de/).
 
 Currently:
-- Finishing my bachelor's thesis. About to print soon!
-- Playing around using Three.js with L-Systems and WebXR again
 - Planning a relaunch of my portfolio site, sometime
+- Writing a Discord bot with Docker
 
 ---
 
