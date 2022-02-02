@@ -21,9 +21,9 @@ At the moment, I'm going to college in Furtwangen in the Black Forest in Germany
 Find more information about me on [my website](https://bassadin.de/).
 
 Currently:
-- Planning a relaunch of my portfolio site, sometime
-- Writing a Discord bot with Docker
-- Almost done with my Bachelor's degree!
+- Planning a relaunch of my portfolio site, sometime...
+- Writing a Discord bot 🤖 with Docker
+- Done with my Bachelor's degree! 🎉🎉🎉
 
 ---
 
