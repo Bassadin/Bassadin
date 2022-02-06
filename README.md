@@ -23,7 +23,7 @@ Find more information about me on [my website](https://bassadin.de/).
 Currently:
 - Planning a relaunch of my portfolio site, sometime...
 - Writing a Discord bot 🤖 with Docker
-- Done with my Bachelor's degree! 🎉🎉🎉
+- Done with my Bachelor's degree! 🎉🎉🎉 (Waiting for my certificate, lol)
 
 ---
 
