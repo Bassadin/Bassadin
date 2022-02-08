@@ -9,7 +9,7 @@
 ~~~
 (Courtesy of https://patorjk.com/software/taag/)                                                                     
 
-I'm Bastian, a software developer from Germany. While my current focus is Full Stack Web Development (buzz word bingo, woop woop), I've dabbled in Game Development, Embedded Programming, Home Automation and other directions of IT before. I love to learn about new technologies and how they can be used to make life better for anyone. Clean and structured code is very important to me - we all experienced those times where we tried to understand old code far too often.
+I'm Bastian, a software developer from Germany. While my current focus is Full Stack Web Development (buzz word bingo, woop woop), I've dabbled in Game Development, Embedded Programming, Home Automation and other directions of IT before. I love to learn about new technologies. Clean and structured code is very important to me - we all know those times where we tried to understand old code far too often.
 
 At the moment, I'm going to college in Furtwangen in the Black Forest in Germany for a master's degree in Computer Science in Media. Next to that, I'm working as a full stack web developer for [Compaile](https://compaile.com/).
 
