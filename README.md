@@ -12,7 +12,7 @@
 
 I'm Bastian, a software developer from Germany. While my current focus is Full Stack Web Development (buzz word bingo, woop woop), I've dabbled in Game Development, Embedded Programming, Home Automation and other directions of IT before. I love to learn about new technologies. Clean and structured code is very important to me - we all know those times where we tried to understand old code far too often.
 
-At the moment, I'm going to college in Furtwangen in the Black Forest in Germany for a master's degree in Computer Science in Media. Next to that, I'm working as a full stack web developer for [Compaile](https://compaile.com/).
+At the moment, I'm waiting for the next semester to start so I can begin with my master's degree in Computer Science. Next to that, I'm working as a full stack web developer for [Compaile](https://compaile.com/).
 
 [![Bassadin's github stats](https://github-readme-stats.vercel.app/api?username=Bassadin&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ###### _Github Stats by https://github.com/anuraghazra/github-readme-stats_
