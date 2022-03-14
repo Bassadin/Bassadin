@@ -22,7 +22,7 @@ Find more information about me on [my website](https://bassadin.de/).
 
 Currently:
 - Planning a relaunch of my portfolio site, sometime...
-- Done with my Bachelor's degree! 🎉🎉🎉 Still waiting for my certificate...
+- Starting with my master's degree in Computer Science
 
 ---
 
