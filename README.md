@@ -13,14 +13,14 @@ I'm Bastian, a software developer from Germany. While my current focus is Full S
 
 At the moment, I'm studying for my master's degree in Computer Science. Next to that, I'm working as a full stack web developer for [Compaile](https://compaile.com/).
 
+You can find more information about me on [my website](https://bassadin.de/).
+
 [![Bassadin's github stats](https://github-readme-stats.vercel.app/api?username=Bassadin&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ###### _Github Stats by https://github.com/anuraghazra/github-readme-stats_
 
 ---
 
-Find more information about me on [my website](https://bassadin.de/).
-
-Currently:
+## Currently:
 - Planning a relaunch of my portfolio site, sometime...
 - Starting with my master's degree in Computer Science
 
