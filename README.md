@@ -23,6 +23,7 @@ You can find more information about me on [my website](https://bassadin.de/).
 ## Currently:
 - Planning a relaunch of my portfolio site, sometime...
 - Starting with my master's degree in Computer Science
+- Excited to work with kubernetes for the first time
 
 ---
 
