@@ -21,7 +21,7 @@ You can find more information about me on [my website](https://bassadin.de/).
 ---
 
 ## Currently:
-- Messing around with Proxmox
+- Messing around with Proxmox or maybe TrueNAS...
 
 ---
 
