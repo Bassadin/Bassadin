@@ -17,7 +17,7 @@ You can find more information about me on [my website](https://bassadin.de/).
 
 [![Bassadin's github stats](https://github-readme-stats.vercel.app/api?username=Bassadin&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bassadin&langs_count=8&hide=Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bassadin&theme=dracula&langs_count=8&hide=Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ###### _Github Stats by https://github.com/anuraghazra/github-readme-stats_
 
 ---
