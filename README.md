@@ -24,6 +24,7 @@ You can find more information about me on [my website](https://bassadin.de/).
 
 ## Currently:
 - Preparing for this semester's tests
+- Trying to learn some Rust to distract me from all the learning
 
 ---
 
