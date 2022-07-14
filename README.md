@@ -23,7 +23,7 @@ You can find more information about me on [my website](https://bassadin.de/).
 ---
 
 ## Currently:
-- Almost done with this semester's tests
+- Trying to set up my new home server
 
 ---
 
