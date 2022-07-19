@@ -24,6 +24,7 @@ You can find more information about me on [my website](https://bassadin.de/).
 
 ## Currently:
 - Trying to set up my new home server
+- Learning new things!
 
 ---
 
