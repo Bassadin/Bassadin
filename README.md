@@ -23,8 +23,7 @@ You can find more information about me on [my website](https://bassadin.de/).
 ---
 
 ## Currently:
-- Deciding on how to use TrueNAS Scale on my Homeserver
-- Learning new things!
+- Trying to understand Docker vlolumes
 - Improving my website
 
 ---
