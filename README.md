@@ -23,7 +23,7 @@ You can find more information about me on [my website](https://bassadin.de/).
 ---
 
 ## Currently:
-- Trying to understand Docker vlolumes
+- Trying to understand Docker volumes
 - Improving my website
 
 ---
