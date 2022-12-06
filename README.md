@@ -1,13 +1,13 @@
-# 🌠 Bastian here! 🌠
-
 ~~~
- ______   ______   ______   ______   ______   _____    __   __   __    
+______   ______   ______   ______   ______   _____    __   __   __    
 /\  == \ /\  __ \ /\  ___\ /\  ___\ /\  __ \ /\  __-. /\ \ /\ "-.\ \   
 \ \  __< \ \  __ \\ \___  \\ \___  \\ \  __ \\ \ \/\ \\ \ \\ \ \-.  \  
  \ \_____\\ \_\ \_\\/\_____\\/\_____\\ \_\ \_\\ \____- \ \_\\ \_\\"\_\ 
   \/_____/ \/_/\/_/ \/_____/ \/_____/ \/_/\/_/ \/____/  \/_/ \/_/ \/_/ 
 ~~~
 (Courtesy of https://patorjk.com/software/taag/)    
+
+# 🌠 Bastian here! 🌠
 
 I'm Bastian, a software developer from Germany. While my current focus is Full Stack Web Development (buzz word bingo, woop woop), I've dabbled in Game Development, Embedded Programming, Home Automation and other directions of IT before. I love to learn about new technologies. Clean and structured code is very important to me. I love automating code deployments and testing with CI and CD and have done so with GitHub Actions as well as the GitLab CI/CD tools.
 
@@ -23,8 +23,8 @@ You can find more information about me on [my website](https://bassadin.de/).
 ---
 
 ## Currently:
-- Trying to understand Docker volumes
-- Improving my website
+- Searching projects for Pull Requests...
+- Honing my website
 
 ---
 
