@@ -61,5 +61,5 @@ You can find more information about me on [my website](https://bassadin.de/).
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## PC
-![image](https://img.shields.io/badge/NVIDIA-GTX2080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![image](https://img.shields.io/badge/NVIDIA-RTX2080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![image](https://img.shields.io/badge/AMD-Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
