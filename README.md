@@ -21,7 +21,7 @@ You can find more information about me on [my website](https://bassadin.de/).
 
 ## Currently:
 - Searching projects for Pull Requests...
-- Honing my website
+- Learning [WindiCSS](https://windicss.org/)
 
 ---
 
