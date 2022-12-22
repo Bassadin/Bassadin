@@ -7,7 +7,7 @@ ______   ______   ______   ______   ______   _____    __   __   __
 ~~~
 (Courtesy of https://patorjk.com/software/taag/)    
 
-# 🌠 Bastian here! 🌠
+# Bastian here!
 
 I'm Bastian, a software developer from Germany. While my current focus is Fullstack Web Development (buzzword bingo, woop woop), I've dabbled in Game Development, Embedded Programming, Home Automation and other directions of IT before. I love to learn about new technologies. Clean and structured code is very important to me. I love automating code deployments and testing with CI and CD and have done so with GitHub Actions as well as the GitLab CI/CD tools.
 
