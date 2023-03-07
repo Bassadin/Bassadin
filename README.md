@@ -5,9 +5,10 @@ ______   ______   ______   ______   ______   _____    __   __   __
  \ \_____\\ \_\ \_\\/\_____\\/\_____\\ \_\ \_\\ \____- \ \_\\ \_\\"\_\ 
   \/_____/ \/_/\/_/ \/_____/ \/_____/ \/_/\/_/ \/____/  \/_/ \/_/ \/_/ 
 ~~~
-(Courtesy of https://patorjk.com/software/taag/)    
 
-# Bastian here!
+(Courtesy of <https://patorjk.com/software/taag/>)
+
+# Bastian here
 
 I'm Bastian, a software developer from Germany.
 While my current focus is Fullstack Web Development (buzzword bingo, woop woop), I've dabbled in Game Development, Embedded Programming, Home Automation and other directions of IT before.
@@ -23,7 +24,8 @@ You can find more information about me on [my website](https://bassadin.de/).
 
 ---
 
-## Currently:
+## Currently
+
 - Searching projects for Pull Requests...
 - Learning [WindiCSS](https://windicss.org/)
 
@@ -66,5 +68,6 @@ You can find more information about me on [my website](https://bassadin.de/).
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## PC
+
 ![image](https://img.shields.io/badge/NVIDIA-RTX2080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![image](https://img.shields.io/badge/AMD-Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
