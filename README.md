@@ -13,7 +13,8 @@ ______   ______   ______   ______   ______   _____    __   __   __
 I'm Bastian, a software developer from Germany.
 While my current focus is Fullstack Web Development (buzzword bingo, woop woop), I've dabbled in Game Development, Embedded Programming, Home Automation and other directions of IT before.
 I love to learn about new technologies.
-Clean and structured code is very important to me. I love automating code deployments and testing with CI and CD and have done so with GitHub Actions as well as the GitLab CI/CD tools.
+Clean and structured code is very important to me and I love working with tools like ESLint and Prettier.
+I love automating code deployments and testing with CI and CD and have done so with GitHub Actions as well as the GitLab CI/CD tools.
 
 At the moment, I'm writing my master's thesis in Computer Science.
 On the side, I'm working as a fullstack web developer for [Compaile](https://compaile.com/). I'm looking forward to completing my studies and working in IT :)
