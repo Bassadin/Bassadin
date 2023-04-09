@@ -27,8 +27,7 @@ You can find more information about me on [my website](https://bassadin.de/).
 
 ## Currently
 
-- Searching projects for Pull Requests...
-- Learning [WindiCSS](https://windicss.org/)
+- Writing my master's thesis about [Localization in LoRaWAN](https://github.com/Bassadin/Master-Thesis-INM)
 
 ---
 
