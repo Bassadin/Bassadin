@@ -21,13 +21,13 @@ On the side, I'm working as a fullstack web developer for [Compaile](https://com
 
 You can find more information about me on [my website](https://bassadin.de/).
 
-[![Bassadin's github stats](https://github-readme-stats.vercel.app/api?username=Bassadin&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Bassadin's github stats](https://github-readme-stats.vercel.app/api?username=Bassadin&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
 
-## Currently
+## Currently...
 
-- Writing my master's thesis about [Localization in LoRaWAN](https://github.com/Bassadin/Master-Thesis-INM)
+- ...writing my master's thesis about [Localization in LoRaWAN](https://github.com/Bassadin/Master-Thesis-INM)
 
 ---
 
