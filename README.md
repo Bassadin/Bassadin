@@ -31,8 +31,6 @@ You can find more information about me on [my website](https://bassadin.de/).
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bassadin_github&left_color=green&right_color=red)
-
 ## Social
 
 [![LinkedIn Link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basvonbassadin/)
