@@ -25,12 +25,6 @@ You can find more information about me on [my website](https://bassadin.de/).
 
 ---
 
-## Currently...
-
-- ...writing my master's thesis about [Localization in LoRaWAN](https://github.com/Bassadin/Master-Thesis-INM)
-
----
-
 ## Social
 
 [![LinkedIn Link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basvonbassadin/)
