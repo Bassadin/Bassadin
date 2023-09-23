@@ -16,8 +16,7 @@ I love to learn about new technologies.
 Clean and structured code is very important to me and I love working with tools like ESLint and Prettier.
 I love automating code deployments and testing with CI and CD and have done so with GitHub Actions as well as the GitLab CI/CD tools.
 
-At the moment, I'm writing my master's thesis in Computer Science.
-On the side, I'm working as a fullstack web developer for [Compaile](https://compaile.com/). I'm looking forward to completing my studies and working in IT :)
+At the moment, I'm working as a fullstack web developer for [Nesto Software GmbH](https://nesto-software.de/).
 
 You can find more information about me on [my website](https://bassadin.de/).
 
