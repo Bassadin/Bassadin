@@ -56,6 +56,7 @@ You can find more information about me on [my website](https://bassadin.de/).
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![image](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=black)
 
 ## PC
 
