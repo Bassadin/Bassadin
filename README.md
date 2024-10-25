@@ -8,26 +8,24 @@ ______   ______   ______   ______   ______   _____    __   __   __
 
 (Courtesy of <https://patorjk.com/software/taag/>)
 
-# Bastian here
+# Hey there!
 
 I'm Bastian, a software developer from Germany.
-While my current focus is Fullstack Web Development (buzzword bingo, woop woop), I've dabbled in Game Development, Embedded Programming, Home Automation and other directions of IT before.
+While my current focus is Full Stack Web Development (buzzword bingo, woop woop), I've dabbled in Game Development, Embedded Programming, Home Automation and other directions of IT before.
 I love to learn about new technologies.
-Clean and structured code is very important to me and I love working with tools like ESLint and Prettier.
+Clean and structured code is very important to me and I love working with tools like ESLint, Prettier and Dev UX in general.
 I love automating code deployments and testing with CI and CD and have done so with GitHub Actions as well as the GitLab CI/CD tools.
 
 At the moment, I'm working as a fullstack web developer for [Nesto Software GmbH](https://nesto-software.de/).
 
 You can find more information about me on [my website](https://bassadin.de/).
 
-<!-- [![Bassadin's github stats](https://github-readme-stats.vercel.app/api?username=Bassadin&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
-
 ---
 
 ## Social
 
 [![LinkedIn Link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basvonbassadin/)
-[![Stackoverflow Link](https://img.shields.io/badge/Mastodon-563ACC?style=for-the-badge&logo=mastodon&logoColor=white)](https://freiburg.social/@bassadin)
+[![Mastodon Link](https://img.shields.io/badge/Mastodon-563ACC?style=for-the-badge&logo=mastodon&logoColor=white)](https://freiburg.social/@bassadin)
 [![Stackoverflow Link](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3526350/vads)
 
 ## Languages
